@@ -1,0 +1,6 @@
+.vscode
+.development.env
+.production.env
+node_modules
+dist
+yarn-error.log

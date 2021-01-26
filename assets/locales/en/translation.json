@@ -1,0 +1,21 @@
+{
+  "label": {
+    "add": "Add",
+    "cancel": "Cancel",
+    "create": "Create",
+    "description": "Description",
+    "edit": "Edit",
+    "item": "Item",
+    "item_plural": "Items",
+    "itemWithCount": "{{count}} item",
+    "itemWithCount_plural": "{{count}} items",
+    "list": "List",
+    "remove": "Remove",
+    "save": "Save",
+    "search": "Search",
+    "title": "Title"
+  },
+  "placeholder": {
+    "todo": "What do you need to do today?"
+   }
+}
